@@ -1,4 +1,4 @@
-fdescribe('async', () => {
+describe('async', () => {
     beforeEach(() => {
         jasmine.clock().install();
     });
