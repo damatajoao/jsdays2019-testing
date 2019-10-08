@@ -4,7 +4,7 @@ function executeAsync(cb) {
     }, 400);
 }
 
-function async(
+function testAsync(
     callBack,
     callBackParam = 'Hallo Welt',
     timeout = 400) {
